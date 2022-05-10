@@ -1,2 +1,2 @@
-# Cedars-class
+# Front-end 
 Front-end web development 
